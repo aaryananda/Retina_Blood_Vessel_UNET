@@ -23,4 +23,7 @@ To build a reliable and efficient segmentation model using U-Net architecture th
 - Kaggle (DRIVE dataset)  
 
 ## 🗂️ Project Structure
+click link below
+https://www.kaggle.com/code/aaryanandasajan/retina-blood-vessel-seperation/edit
+
 
